@@ -50,3 +50,5 @@ fi
 
 # Aliases
 alias proxy="proxychains"
+alias vim=nvim
+alias realvim=vim
