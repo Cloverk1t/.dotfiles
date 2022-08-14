@@ -1,1 +1,6 @@
+# Dotfiles 🎁
 
+### Tools
+
+- Alacritty
+- Tmux
